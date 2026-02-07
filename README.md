@@ -19,5 +19,4 @@ An Airbnb-style full-stack web application built using Node.js, Express, MongoDB
 ## How to Run
 1. Clone the repo
 2. Run: npm install
-3. Add your MongoDB URI in .env file
-4. Run: npm start
+3. Run: npm start
